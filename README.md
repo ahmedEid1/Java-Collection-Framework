@@ -1,4 +1,7 @@
 <h1 >Java Collections Framework</h1>
+<li>
+<li>[Lists](List.md)</li>
+</li>
 
 <h2>Arrays</h2>
 
