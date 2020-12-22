@@ -3,9 +3,13 @@
 <h2>Arrays</h2>
 - Arrays are a low level construct
     - Reasonable enough to have in the core language
+      
     - Not flexible enough for use cases
+      
     - 	(in java) Arrays are fixed length and not resizable
+         
             - To resize an array :
+              
                 <code> Arrays.copyOf(arr, length + i) </code>
               
 <hr>
