@@ -2,6 +2,7 @@
 
 <h2>Arrays</h2>
 - Arrays are a low level construct
+
     - Reasonable enough to have in the core language
       
     - Not flexible enough for use cases
