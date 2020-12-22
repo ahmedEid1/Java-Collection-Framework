@@ -7,11 +7,11 @@
       
     - Not flexible enough for use cases
       
-    - 	(in java) Arrays are fixed length and not resizable
-         
-            - To resize an array :
+    - (in java) Arrays are fixed length and not resizable
+        
+    - To resize an array :
               
-                <code> Arrays.copyOf(arr, length + i) </code>
+        <code> Arrays.copyOf(arr, length + i) </code>
               
 <hr>
 <h3>the structure of the collection framework</h3>
