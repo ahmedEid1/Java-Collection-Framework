@@ -89,5 +89,7 @@
 <td>O(n)</td>
 </tr>
 </table>
-					
-<a href="README.md">return to the README </a>
+
+<hr>
+<a href="README.md">&lt;&lt; README </a>
+<hr>
