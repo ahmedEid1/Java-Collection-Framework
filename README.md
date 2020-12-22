@@ -1,10 +1,10 @@
 <h1 >Java Collections Framework</h1>
-<li>
+<ol>
     
 [Lists](List.md)
 
 </li>
-</li>
+</ol>
 
 <h2>Arrays</h2>
 
