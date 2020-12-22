@@ -1,7 +1,8 @@
 <h1 >Java Collections Framework</h1>
 
 <h2>Arrays</h2>
-- Arrays are a low level construct
+
+    - Arrays are a low level construct
 
     - Reasonable enough to have in the core language
       
@@ -10,8 +11,7 @@
     - (in java) Arrays are fixed length and not resizable
         
     - To resize an array :
-              
-        <code> Arrays.copyOf(arr, length + i) </code>
+              **Arrays.copyOf(arr, length + i)**
               
 <hr>
 <h3>the structure of the collection framework</h3>
