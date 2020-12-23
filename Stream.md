@@ -14,6 +14,7 @@
 
 
 <h2>Examples for Functions on streams </h2>
+
 - `filter`()
 
     - Takes a predict
