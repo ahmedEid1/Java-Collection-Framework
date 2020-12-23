@@ -90,11 +90,10 @@
 
     - Combine elements together using a combination function
     
-            - The combination function Takes:
-            
-              - An initial value for the accumulator
+    - Takes:
+            - An initial value for the accumulator and a function
         
-              - The function takes :
+              - The combination function takes :
         
                     - The accumulator and the  next element   
 <hr>
