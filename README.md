@@ -1,8 +1,12 @@
 <h1 >Java Collections Framework</h1>
 <ol>
-    
-[Lists](List.md)
+<li>
 
+[Lists](List.md)
+</li>
+<li>
+
+[Maps](Map.md)
 </li>
 </ol>
 
