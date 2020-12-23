@@ -104,9 +104,9 @@
 
 - Example :
 
-    - collect():
-             - Takes a collector :
-                - Examples for a collectors :
+    - collect()
+             - Takes a collector
+                - Examples for a collectors
                     - collecting as a list :
                       - `Collectors.toList()`
                     - Collecting as a map :
@@ -116,12 +116,12 @@
 
 <h2>Are streams always better than loops?</h2>
 - Streams are:
-    -  high level construct 
-    - Optimized framework
-    - General better readability
-    - Some corner worse cases :
-            - Are worse readability 
-            - Are worse performance
+        -  high level construct 
+        - Optimized framework
+        - General better readability
+        - Some corner worse cases :
+                    - Are worse readability 
+                    - Are worse performance
 - Loops :
     - Low level construct
     - Can be faster
