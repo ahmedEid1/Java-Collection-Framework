@@ -89,10 +89,10 @@
 - `reduce`()
 
     - Combine elements together using a combination function
-    - Takes:
-            - An initial value for the accumulator
+            - The combination function Takes:
+              - An initial value for the accumulator
         
-            - The function takes :
+              - The function takes :
         
                     - The accumulator and the  next element   
 <hr>
