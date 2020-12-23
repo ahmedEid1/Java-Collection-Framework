@@ -20,6 +20,10 @@
 
 [Sets](Set.md)
 </li>
+<li>
+
+[Notes](GeneralNotes.md)
+</li>
 </ol>
 
 <h2>Arrays</h2>
@@ -167,5 +171,9 @@
 <li>
 
 [Sets](Set.md)
+</li>
+<li>
+
+[Notes](GeneralNotes.md)
 </li>
 </ol>
