@@ -89,7 +89,9 @@
 - `reduce`()
 
     - Combine elements together using a combination function
+    
             - The combination function Takes:
+            
               - An initial value for the accumulator
         
               - The function takes :
