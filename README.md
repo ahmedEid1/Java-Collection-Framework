@@ -16,6 +16,10 @@
 
 [Factories](Factory.md)
 </li>
+<li>
+
+[Sets](Set.md)
+</li>
 </ol>
 
 <h2>Arrays</h2>
@@ -159,5 +163,9 @@
 <li>
 
 [Factories](Factory.md)
+</li>
+<li>
+
+[Sets](Set.md)
 </li>
 </ol>
