@@ -122,6 +122,7 @@
 <h2>Are streams always better than loops?</h2>
 
 - Streams are:
+
     -  high level construct    
     - Optimized framework
     - General better readability
