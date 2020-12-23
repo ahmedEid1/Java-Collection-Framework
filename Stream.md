@@ -101,19 +101,15 @@
 
 <h2>Collectors :</h2>
 - Part of the stream api that allow you to build finial values that are big and complex from a stream
+
 - Example :
+
     - collect():
-    
-            - Takes a collector :
-        
+             - Takes a collector :
                 - Examples for a collectors :
-            
                     - collecting as a list :
-                
                       - `Collectors.toList()`
-                  
                     - Collecting as a map :
-                
                         - `Collectors.groupingBy(the thing to group by)`
     
 - ---------------------------
