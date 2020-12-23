@@ -10,6 +10,7 @@
 - --------
 - Stream is an interface with lots of functions on it 
 - -----------------------------------------------
+
 <h2>Examples for Functions on streams </h2>
 - `filter`():
     - Takes a predict
