@@ -12,6 +12,10 @@
 
 [Streams](Stream.md)
 </li>
+<li>
+
+[Factories](Factory.md)
+</li>
 </ol>
 
 <h2>Arrays</h2>
@@ -138,3 +142,22 @@
     True if all the elements in the given collection are in the collection
     
 <hr>
+
+<ol>
+<li>
+
+[Lists](List.md)
+</li>
+<li>
+
+[Maps](Map.md)
+</li>
+<li>
+
+[Streams](Stream.md)
+</li>
+<li>
+
+[Factories](Factory.md)
+</li>
+</ol>
