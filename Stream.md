@@ -14,24 +14,24 @@
 
 
 <h2>Examples for Functions on streams </h2>
-- `filter`():
+- `filter`()
     - Takes a predict
     - Remove elements from the stream that does not match the predict
-- `sorted`():
+- `sorted`()
     - Takes a comparator or no arguments
 <hr>
 
-- `map`():
+- `map`()
     - Transform element from one value to another
     - Takes a method reference
-- `flatMap`():
+- `flatMap`()
     - Transform elements from one value to zero, 1 or more values
 <hr>
 
 - `forEach`()
 <hr>
 
-- `anyMatch`() :
+- `anyMatch`()
     - Takes a predict
     - Return true if any element match the predict
 - `noneMatch`() :
@@ -40,36 +40,39 @@
     - Return true if all element match the Predict
 <hr>
 
-- `skip`(long n):
+- `skip`(long n)
     - Discard next n elements
 - `limit`(long n):
     - return next n elements
 <hr>
 
-- `min`() :
+- `min`()
     - Take a comparator or nothing
     - Return the minimum element in the stream
-- `max`() :
+- `max`()
     - Take a comparator or nothing
     - Return the maximum element in the stream
 <hr>
 
-- `findFirst`():
+- `findFirst`()
     - Return the first element in the stream
-- `findAny`():
+- `findAny`()
     - Return a random element
 <hr>
 
-- `count`():
+- `count`()
     - Return the number of elements in the streams
 <hr>
 
 
-- `reduce`() :
+- `reduce`()
     - Combine elements together using a combination function
     - Takes:
+    
         - An initial value for the accumulator
+        
         - The function takes :
+        
             - The accumulator and the  next element   
 <hr>
 
