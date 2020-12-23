@@ -127,6 +127,7 @@
     - Optimized framework
     - General better readability
     - Some corner worse cases :
+    
             - Are worse readability
             - Are worse performance
             
