@@ -8,6 +8,10 @@
 
 [Maps](Map.md)
 </li>
+<li>
+
+[Streams](Stream.md)
+</li>
 </ol>
 
 <h2>Arrays</h2>
