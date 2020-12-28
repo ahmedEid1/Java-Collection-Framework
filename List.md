@@ -60,6 +60,7 @@
         * So it provides some feature that the ArrayList does not
 
 <hr>
+
 -  _**Performance comparison **_
 
 <table>
